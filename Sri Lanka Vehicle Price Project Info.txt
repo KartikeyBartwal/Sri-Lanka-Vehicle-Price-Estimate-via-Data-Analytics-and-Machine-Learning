@@ -1,0 +1,6 @@
+The data is scraped from Sri Lanka's most famous online vehicle buying selling platform: Ikman.lk. The Credit for all the information goes to Ikman. 
+The creater of the dataset is LASAL JAYAWARDENA (https://www.kaggle.com/lasaljaywardena)
+
+Citations
+If you publish any research paper based on this data, use this citation:
+Jayawardena, Lasal. (2021). Sri Lanka Vehicle Prices Dataset. DOI: 10.13140/RG.2.2.35445.09448/1 .
